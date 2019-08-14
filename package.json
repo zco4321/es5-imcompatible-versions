@@ -262,6 +262,12 @@
           "version": "^3.2.4",
           "reason": "https://github.com/Leonard-Li777/antd-table-infinity/blob/master/src/components/Table/InfinityTable/index.jsx#L7"
         }
+      },
+      "babel-types": {
+        "^7.5.0": {
+          "version": "^7.5.0",
+          "reason": "https://github.com/babel/babel/tree/master/packages/babel-types"
+        }
       }
     }
   }
